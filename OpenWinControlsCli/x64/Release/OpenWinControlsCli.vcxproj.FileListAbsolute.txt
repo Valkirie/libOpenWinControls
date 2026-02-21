@@ -1,0 +1,1 @@
+C:\Users\benja\Documents\GitHub\libOpenWinControls\build\OpenWinControlsCli\x64\Release\OpenWinControlsCli.vcxproj.AssemblyReference.cache
